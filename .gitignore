@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output of the app (the published copy lives in /docs and IS committed)
+cv-site/dist/
+
+# Logs & caches
+*.log
+.parcel-cache/
+.vite/
+
+# Local Claude Code settings (personal permissions)
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
