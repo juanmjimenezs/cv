@@ -265,7 +265,7 @@ export const content: Record<Lang, Translation> = {
         {
           title: "English course (4 semesters)",
           institution: "University of Quindío",
-          year: "2012 — 2016",
+          year: "2013 — 2014",
         },
       ],
       certs: [
@@ -475,7 +475,7 @@ export const content: Record<Lang, Translation> = {
         {
           title: "Curso de inglés (4 semestres)",
           institution: "Universidad del Quindío",
-          year: "2012 — 2016",
+          year: "2013 — 2014",
         },
       ],
       certs: [
