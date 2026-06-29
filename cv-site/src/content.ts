@@ -214,6 +214,18 @@ export const content: Record<Lang, Translation> = {
           tags: ["Product Owner", "Agile/Scrum", "Mobile"],
         },
         {
+          company: "Home Select",
+          role: "Senior Developer",
+          period: "Apr 2012 — Jan 2016",
+          location: "Armenia, Q.",
+          bullets: [
+            "Owned full-lifecycle maintenance and feature development of the core information system serving critical business functions.",
+            "Oversaw key modules — reservations, cleaning schedules, payment processing and cancellations — optimizing operational efficiency.",
+            "Partnered with stakeholders to implement system upgrades driven by evolving business requirements.",
+          ],
+          tags: ["PHP", "MySQL", "Web"],
+        },
+        {
           company: "Riazor SAS / Infopixel Colombia Ltda.",
           role: "Knowledge Management · Senior Developer",
           period: "Nov 2006 — Mar 2012",
@@ -410,6 +422,18 @@ export const content: Record<Lang, Translation> = {
             "Colaboré de forma transversal con desarrollo, diseño y QA para asegurar entregas oportunas y efectivas.",
           ],
           tags: ["Product Owner", "Ágil/Scrum", "Móvil"],
+        },
+        {
+          company: "Home Select",
+          role: "Senior Developer",
+          period: "Abr 2012 — Ene 2016",
+          location: "Armenia, Q.",
+          bullets: [
+            "Lideré el mantenimiento y el desarrollo de funcionalidades del sistema de información core, clave para el negocio.",
+            "Gestioné módulos críticos — reservas, agendas de limpieza, procesamiento de pagos y cancelaciones — optimizando la eficiencia operativa.",
+            "Colaboré con stakeholders para implementar mejoras del sistema según los requisitos cambiantes del negocio.",
+          ],
+          tags: ["PHP", "MySQL", "Web"],
         },
         {
           company: "Riazor SAS / Infopixel Colombia Ltda.",
